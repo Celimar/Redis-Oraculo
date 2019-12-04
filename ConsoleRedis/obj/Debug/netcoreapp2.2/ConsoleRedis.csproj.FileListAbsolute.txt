@@ -1,0 +1,12 @@
+C:\Users\logonrmlocal\source\repos\ConsoleRedis\ConsoleRedis\bin\Debug\netcoreapp2.2\ConsoleRedis.deps.json
+C:\Users\logonrmlocal\source\repos\ConsoleRedis\ConsoleRedis\bin\Debug\netcoreapp2.2\ConsoleRedis.runtimeconfig.json
+C:\Users\logonrmlocal\source\repos\ConsoleRedis\ConsoleRedis\bin\Debug\netcoreapp2.2\ConsoleRedis.runtimeconfig.dev.json
+C:\Users\logonrmlocal\source\repos\ConsoleRedis\ConsoleRedis\bin\Debug\netcoreapp2.2\ConsoleRedis.dll
+C:\Users\logonrmlocal\source\repos\ConsoleRedis\ConsoleRedis\obj\Debug\netcoreapp2.2\ConsoleRedis.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\source\repos\ConsoleRedis\ConsoleRedis\obj\Debug\netcoreapp2.2\ConsoleRedis.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\ConsoleRedis\ConsoleRedis\obj\Debug\netcoreapp2.2\ConsoleRedis.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\ConsoleRedis\ConsoleRedis\obj\Debug\netcoreapp2.2\ConsoleRedis.AssemblyInfo.cs
+C:\Users\logonrmlocal\source\repos\ConsoleRedis\ConsoleRedis\bin\Debug\netcoreapp2.2\ConsoleRedis.pdb
+C:\Users\logonrmlocal\source\repos\ConsoleRedis\ConsoleRedis\obj\Debug\netcoreapp2.2\ConsoleRedis.dll
+C:\Users\logonrmlocal\source\repos\ConsoleRedis\ConsoleRedis\obj\Debug\netcoreapp2.2\ConsoleRedis.pdb
+C:\Users\logonrmlocal\source\repos\ConsoleRedis\ConsoleRedis\bin\Debug\netcoreapp2.2\ConsoleRedis.dll.config
